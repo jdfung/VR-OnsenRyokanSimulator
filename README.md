@@ -27,4 +27,11 @@ Put on your VR headset and step into the virtual Onsen hotel. Explore the enviro
 
 ## How it looks like
 
-![]()
+![SS1](https://github.com/jdfung/VR-RyokanSimulator/blob/main/Screenshot/SS1.png)
+![SS2](https://github.com/jdfung/VR-RyokanSimulator/blob/main/Screenshot/SS2.png)
+![SS3](https://github.com/jdfung/VR-RyokanSimulator/blob/main/Screenshot/SS3.png)
+![SS4](https://github.com/jdfung/VR-RyokanSimulator/blob/main/Screenshot/SS4.png)
+![SS5](https://github.com/jdfung/VR-RyokanSimulator/blob/main/Screenshot/SS5.png)
+![SS6](https://github.com/jdfung/VR-RyokanSimulator/blob/main/Screenshot/SS6.png)
+![SS7](https://github.com/jdfung/VR-RyokanSimulator/blob/main/Screenshot/SS7.png)
+![SS8](https://github.com/jdfung/VR-RyokanSimulator/blob/main/Screenshot/SS8.png)
